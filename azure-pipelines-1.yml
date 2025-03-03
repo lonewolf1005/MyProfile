@@ -32,7 +32,7 @@ pr:
       - mkdocs.
 
 pool:
-  vmImage: windows-latest
+  vmImage: ubuntu-latest
 
 steps:
 - script: echo Hello, world!
